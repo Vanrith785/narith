@@ -55,7 +55,7 @@ export default {
         {
           title: 'Spring',
           author: 'William Shakespeare',
-          img: 'IMG_5720.JPG',
+          img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Superman_shield.svg/640px-Superman_shield.svg.png',
           link: '/blog/spring',
           updated: '3 mins ago'
         }
