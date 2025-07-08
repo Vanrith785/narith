@@ -34,7 +34,7 @@ export default {
         {
           title: "A Lover's Complaint",
           author: 'William Shakespeare',
-          img: '/https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmATFOCsSVintugZzryajasWF22CVV8RcC5A&s',
+          img: '/IMG_7298.JPG',
           link: '/blog/lovers-complaint',
           updated: '3 mins ago'
         },
@@ -48,14 +48,14 @@ export default {
         {
           title: 'Spring and Winter i',
           author: 'William Shakespeare',
-          img: '94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif',
+          img: 'IMG_6159.JPG',
           link: '/blog/spring-winter-i',
           updated: '3 mins ago'
         },
         {
           title: 'Spring',
           author: 'William Shakespeare',
-          img: '/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif',
+          img: 'IMG_5720.JPG',
           link: '/blog/spring',
           updated: '3 mins ago'
         }
