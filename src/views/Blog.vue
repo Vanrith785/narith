@@ -34,7 +34,7 @@ export default {
         {
           title: "A Lover's Complaint",
           author: 'William Shakespeare',
-          img: '',
+          img: 'IMG_7311 2.jpg',
           link: '/blog/lovers-complaint',
           updated: '3 mins ago'
         },
