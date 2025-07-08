@@ -19,7 +19,7 @@
         </ul>
       </div>
       <div class="col-md-5">
-        <img src="/IMG_6390.JPG" class="img-fluid" alt="About Me">
+        <img src="/IMG_5732.JPG" class="img-fluid" alt="About Me">
       </div>
     </div>
   </section>
