@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg bg-black bg-gradient fixed-top p-3">
     <div class="container-fluid text-light">
-      <router-link to="/" class="navbar-brand">Chong | Portfolio</router-link>
+      <router-link to="/" class="navbar-brand">Pich | Portfolio</router-link>
       <button
         class="navbar-toggler"
         type="button"
