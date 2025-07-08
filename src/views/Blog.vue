@@ -48,7 +48,7 @@ export default {
         {
           title: 'Spring and Winter i',
           author: 'William Shakespeare',
-          img: 'IMG_6159.JPG',
+          img: 'IMG_7298.JPG',
           link: '/blog/spring-winter-i',
           updated: '3 mins ago'
         },
