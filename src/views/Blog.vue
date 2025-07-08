@@ -48,14 +48,14 @@ export default {
         {
           title: 'Spring and Winter i',
           author: 'William Shakespeare',
-          img: 'https://static.vecteezy.com/system/resources/previews/016/143/868/non_2x/cool-gamer-esport-logo-design-vector.jpg',
+          img: 'https://play-lh.googleusercontent.com/YtOzX0WndUwA_hJ687iJ6dEFjg7i3iPSQd7g8yIfk9QEmran09HUUZaSipditPizYzQ=w240-h480-rw',
           link: '/blog/spring-winter-i',
           updated: '3 mins ago'
         },
         {
           title: 'Spring',
           author: 'William Shakespeare',
-          img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Superman_shield.svg/640px-Superman_shield.svg.png',
+          img: 'https://play-lh.googleusercontent.com/ageeNxH4--9pU1iY7M_7YqCD-cDbL9CoQdXSaEbhCjXQ9SwNau-bC73Z-YGh81xwQhqP=w240-h480-rw',
           link: '/blog/spring',
           updated: '3 mins ago'
         }
