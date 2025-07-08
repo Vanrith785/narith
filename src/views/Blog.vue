@@ -34,21 +34,21 @@ export default {
         {
           title: "A Lover's Complaint",
           author: 'William Shakespeare',
-          img: '/IMG_7298.JPG',
+          img: 'https://d1csarkz8obe9u.cloudfront.net/posterpreviews/gamers-logo-for-youtube-channel-design-template-7796670c7be8103f644d121c9514b5c3_screen.jpg?ts=1740305415',
           link: '/blog/lovers-complaint',
           updated: '3 mins ago'
         },
         {
           title: 'Spring and Winter ii',
           author: 'William Shakespeare',
-          img: '/IMG_5732.JPG',
+          img: 'https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/24/52/2b/24522bef-5a4c-59c0-f3f9-b93b612c76a2/source/256x256bb.jpg',
           link: '/blog/spring-winter-ii',
           updated: '3 mins ago'
         },
         {
           title: 'Spring and Winter i',
           author: 'William Shakespeare',
-          img: 'IMG_7298.JPG',
+          img: 'https://static.vecteezy.com/system/resources/previews/016/143/868/non_2x/cool-gamer-esport-logo-design-vector.jpg',
           link: '/blog/spring-winter-i',
           updated: '3 mins ago'
         },
